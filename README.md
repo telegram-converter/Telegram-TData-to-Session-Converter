@@ -5,8 +5,8 @@ A tool that converts Telegram Desktop TDATA accounts to Telegram session files (
 
 ## 📚 Multilingual support
 - English – this page  
-- Русский – [TD2S Converter RU](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-RU/)  
-- 简体中文 – [TD2S Converter CN](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter-CN)
+- Русский – [TD2S Converter RU](https://github.com/telegram-converter/Telegram-TData-to-Session-Converter-RU/)  
+- 简体中文 – [TD2S Converter CN](https://github.com/telegram-converter/Telegram-TData-to-Session-Converter-CN)
 
 ---
 
@@ -50,7 +50,7 @@ A tool that converts Telegram Desktop TDATA accounts to Telegram session files (
 
 ## 📥 Download
 
-- **Always Latest Release** – [GitHub](https://github.com/telegram-prime/Telegram-TData-to-Session-Converter/releases/latest)
+- **Always Latest Release** – [Website](https://telegram-converter.com/downloads/td2s/en/latest)
 
 ---
 
@@ -81,6 +81,6 @@ A tool that converts Telegram Desktop TDATA accounts to Telegram session files (
 
 ## ☕️ Donations
 
-- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/mcv)
     
 Thank you for your support!
